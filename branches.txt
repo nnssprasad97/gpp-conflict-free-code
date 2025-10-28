@@ -1,0 +1,17 @@
+  conflict-simulator
+  dev
+  feature/analytics
+  feature/docs-setup
+  feature/faq
+  feature/settings-page
+  feature/user-auth
+  fix/add-comments-deploy
+  hotfix/critical-tracking
+* main
+  style/monitor-comments
+  remotes/instructor/HEAD -> instructor/main
+  remotes/instructor/conflict-simulator
+  remotes/instructor/dev
+  remotes/instructor/main
+  remotes/origin/feature/user-auth
+  remotes/origin/main

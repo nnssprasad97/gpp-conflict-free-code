@@ -1,0 +1,23 @@
+* ac8acc0 (HEAD -> main) docs: Generate CHANGELOG.md
+* b7816a7 (tag: v1.1.0, origin/main) feat: Add new config (with bug)
+* fea5734 (hotfix/critical-tracking, feature/settings-page) feat(analytics): Add base tracking script
+| * 3b4b6a1 (feature/analytics) feat(analytics): Add pageview event
+| * 9e0290a feat(analytics): Add base tracking script
+|/  
+| * 68bb5a5 (refs/stash) On feature/faq: WIP: FAQ Section
+|/| 
+| * f58aad7 index on feature/faq: 19e1f95 merge: Resolve conflicts from conflict-simulator
+|/  
+*   19e1f95 (tag: v1.0.0, origin/feature/user-auth, feature/user-auth, feature/faq) merge: Resolve conflicts from conflict-simulator
+|\  
+| * d3dd9b2 (instructor/conflict-simulator, conflict-simulator) updating conflict-simulator
+* |   bb50ebb (style/monitor-comments, fix/add-comments-deploy) merge: Resolve all conflicts between main and dev branches
+|\ \  
+| * | 02011a5 (instructor/dev, dev) updating dev
+| |/  
+* | 59da98e chore: Ignore screenshots directory
+* | 41ffab5 (feature/docs-setup) docs: Add initial Git_JOURNEY.md template
+* | 0312c6f (instructor/main, instructor/HEAD) updating main
+* | fadfd24 Revise README for DevOps Simulator project
+|/  
+* ae630eb Initial commit

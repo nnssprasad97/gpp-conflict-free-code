@@ -1,0 +1,4 @@
+instructor	https://github.com/Partnrnetwork/git-mastery-challenge-template.git (fetch)
+instructor	https://github.com/Partnrnetwork/git-mastery-challenge-template.git (push)
+origin	https://github.com/nnssprasad97/gpp-conflict-free-code (fetch)
+origin	https://github.com/nnssprasad97/gpp-conflict-free-code (push)
