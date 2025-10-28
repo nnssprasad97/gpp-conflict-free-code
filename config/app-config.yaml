@@ -55,4 +55,4 @@ cloud_providers:
 security:
   zero_trust: enabled
   encryption: AES-256
-  audit_logging: comprehensive
+  audit_logging: comprehensiveTHIS IS A BUG
